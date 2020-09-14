@@ -1,5 +1,5 @@
 # simple-dice-game
-
+I changed the UI and added some features, game is based on project from "The Complete JavaScript Course" by Jonas Schmedtmann. 
 
 ## 📑 GAME RULES:
 ➡️ The game has 2 players, playing in rounds<br/>
