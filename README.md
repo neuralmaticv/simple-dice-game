@@ -1,4 +1,4 @@
-# Simple Dice Game
+# 🎮 Simple Dice Game
 I changed the UI and added some new features, game is based on project from "The Complete JavaScript Course" by Jonas Schmedtmann. 
 
 ### 📑 GAME RULES:
